@@ -15,6 +15,7 @@ Brief Info:
 3. If two player mode us the arrow key for the second player and the space key to select the desired card.
 
 4.Other functionality:
+
 	```Cheat: Pressig the "q" or "Q" keys will toggle all cards being face up and all cards being face down.
 
 	   Shuffle: Clicking the "SHUFFLE" button will randomly place all the cards into places on the screen.
