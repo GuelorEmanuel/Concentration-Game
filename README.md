@@ -16,18 +16,18 @@ Brief Info:
 
 4.Other functionality:
 
-	```Cheat: Pressig the "q" or "Q" keys will toggle all cards being face up and all cards being face down.
+	```Cheat: Pressig the "q" or "Q" keys will toggle all cards being face up and all cards being face down. ```
 
-	   Shuffle: Clicking the "SHUFFLE" button will randomly place all the cards into places on the screen.
+	    ```Shuffle: Clicking the "SHUFFLE" button will randomly place all the cards into places on the screen. ```
 
-	   Sort: Clicking the "SORT" button will sort each row of cards (independently) according to the specified ordering of the cards (given bellow).
-	   The 54 cards will have the following order:
-	   black joker < diamonds < clubs < hearts < spades < red joker
+	   ```Sort: Clicking the "SORT" button will sort each row of cards (independently) according to the specified ordering of the cards (given bellow). ```
+	    ```The 54 cards will have the following order: ```
+	    ```black joker < diamonds < clubs < hearts < spades < red joker ```
 
-	   Within each suit, the cards are ordered using
-	   	2 < 3 <...< 10 < Jack < Queen < King < Ace
+	    ```Within each suit, the cards are ordered using ```
+	   	 ```2 < 3 <...< 10 < Jack < Queen < King < Ace ```
 
 
-	   Hint: Clicking the "HINT" button will show you where the matched card is located```
+	    ```Hint: Clicking the "HINT" button will show you where the matched card is located```
 
 
